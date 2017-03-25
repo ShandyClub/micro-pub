@@ -1,0 +1,27 @@
+{
+  "_id": "58a8645bf21dc3762074eade",
+  "name": "Harp",
+  "address": "Chandos Place",
+  "postcode": "WC2N 4HS",
+  "website": "",
+  "cheers": 0,
+  "features": {
+    "architecture": true,
+    "beer": true,
+    "fire": false,
+    "food": true,
+    "games": false,
+    "garden": false,
+    "peace": false,
+    "tv": false
+  },
+  "desc": "",
+  "loc": {
+    "type": "Point",
+    "coordinates": [
+      -0.1259331,
+      51.509676
+    ]
+  },
+  "place_id": "ChIJKXTZKcwEdkgRZs8E0eH5zVI"
+}
