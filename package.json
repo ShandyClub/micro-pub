@@ -12,7 +12,7 @@
   "scripts": {
     "test": "ava",
     "start": "MONGO_URL=mongodb://127.0.0.1/shandyclub nodemon --exec micro -p 8000",
-    "now-start": "micro -p ${PORT:-3000}",
+    "now-start": "micro -p $PORT",
     "deploy": "now -e NODE_ENV=production -e MONGO_URL=@mongo-shandy && now alias `pbpaste` shandy-club-pub-read"
   },
   "dependencies": {
