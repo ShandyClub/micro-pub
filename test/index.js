@@ -5,7 +5,7 @@ const path = require('path')
 const request = require('request-promise')
 const test = require('ava')
 
-test('micro-pub', async t => {
+test('shandy-club-pub-read', async t => {
 
   // mock `micro` service
   const service = micro(async (req, res) => {
