@@ -1,4 +1,4 @@
-# Shandy Club - Pub
+# Shandy Club - Pub Read
 
 > Microservice to read a Shandy Club pub
 
